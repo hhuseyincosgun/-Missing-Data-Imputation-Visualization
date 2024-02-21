@@ -3,7 +3,7 @@
 
 Dealing with missing data is a prevalent and inherent challenge in data collection, particularly when dealing with extensive datasets. Numerous factors contribute to missing data, including participants providing incomplete information, non-responses from individuals who decide not to share data, poorly designed survey instruments, or the necessity to exclude data due to confidentiality concerns.
 
-**You can read the medium article from** [Dealing with Missing Data from Zero to Advanced](https://medium.com/@hhuseyincosgun/dealing-with-missing-data-from-zero-to-advanced-4fb734ee5998).
+**You can read the medium article from** [Dealing with Missing Data from Zero to Advanced](https://medium.com/@hhuseyincosgun/dealing-with-missing-data-from-zero-to-advanced-4fb734ee5998)
 
 ![image](https://github.com/hhuseyincosgun/Missing-Data-Imputation-Visualization/assets/21257660/567b8ece-a135-411a-b425-efacf72afe52)
 
